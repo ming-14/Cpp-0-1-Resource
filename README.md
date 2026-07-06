@@ -13,5 +13,16 @@
 
 https://www.bilibili.com/video/av41559729/
 
-## 交流群
+## Release 资源
 
+| 文件 | 描述 |
+|------|------|
+| C++-ISO.2011.pdf | C++11 国际标准文档 |
+| C++-ISO.2020.pdf | C++20 国际标准文档 |
+| C++-Primer-5th-zh-Contents-Scan.pdf | 《C++ Primer（第5版）》中文目录扫描 |
+| C++-Tech-Reference-Manual-Scan.pdf | C++ 技术参考手册扫描版 |
+| C++-Tutorial-0-to-1-ITcast.zip | 传智播客 C++ 从0到1入门教程配套资料包 |
+| C++20-Advanced-Programming-5th-Scan.pdf | C++20 高级编程（第5版）扫描版 |
+| cppreference-zh-20181028.chm | C++ 中文参考文档（2018-10-28 版） |
+| cppreference-zh-20190607.chm | C++ 中文参考文档（2019-06-07 版） |
+| Deep-Understanding-C-Pointer.pdf | 《深入理解C指针》PDF |
